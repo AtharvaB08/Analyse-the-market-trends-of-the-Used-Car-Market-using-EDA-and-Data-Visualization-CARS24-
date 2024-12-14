@@ -1,0 +1,2 @@
+# Analyse-the-market-trends-of-the-Used-Car-Market-using-EDA-and-Data-Visualization-CARS24-
+ This Tableau dashboard analyzes car distribution and pricing data from Cars24. It explores trends like average price, fuel types, model counts, transmission types, and city-specific price ranges. The dashboard provides insights for car dealers, analysts, and enthusiasts to understand market trends and make data-driven decisions.
