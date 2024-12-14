@@ -9,6 +9,10 @@ The dashboard serves as a valuable tool for understanding car market dynamics, i
 - Travel distance vs. price insights
 - Geographical analysis of car price ranges across cities
 
+
+![image](https://github.com/user-attachments/assets/6cd54762-bd15-4d24-8803-d1e4359a6d20)
+
+
 ---
 
 ## Key Features 🚗
